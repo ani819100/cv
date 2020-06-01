@@ -1,0 +1,29 @@
+<!DOCTYPE HTML >
+<HTML>
+ <HEAD>
+  <TITLE> Contact Details </TITLE>
+  <META NAME="Generator" CONTENT="EditPlus">
+  <META NAME="Author" CONTENT="">
+  <META NAME="Keywords" CONTENT="">
+  <META NAME="Description" CONTENT="">
+ </HEAD>
+
+ <BODY>
+  <h2>Contact Details :</h2>
+  <ol>
+  <li>Ph no:-8191003060</li>
+  <li>email:-ani819100@gmail.com</li>
+  <li>Add:-Shivalik residency lawyers colony agra</li>
+  </ol>
+  <hr>
+  <form action ="mailto:info@londonappbrewery.com" method ="post" enctype="text/plain">
+	<label>Your Name</label>
+	<input type ="text"><br>
+	<label>Email</label>
+	<input type ="email"><br>
+	<label>Your Message</label><br>
+	<textarea rows="10" cols ="30"></textarea><br>
+	<input type ="submit">
+  </form>
+ </BODY>
+</HTML>
