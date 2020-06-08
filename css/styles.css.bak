@@ -1,0 +1,94 @@
+body{
+			margin: 0px;
+			text-align:center;
+			font-family: 'Merriweather', serif;
+			}
+a{
+	color:#11999E;
+	margin-right:30px;
+	text-decoration:none;
+	}
+hr{
+		width:5%;
+		border-style:dotted none none none;
+		border-width:7px;
+		color:#EAF6F6;
+		}
+h1{
+		margin-top: 50px;
+		font-family: 'Sacramento', cursive;
+		font-size:90px;
+		margin-bottom:0;
+		color:#66BFBF
+		}
+h2{
+		font-size:2.5rem;
+		margin-top:0;
+		color:#66BFBF;
+		}
+h3{
+		color:#11999E;
+p{
+	color:#40514E;
+	}
+		}
+.top{
+			background-color: #e4f9f5;
+			position:relative;
+			padding-top:20px;
+		}
+.middle{
+	
+				}
+.bottom{
+				background-color:#66BFBF;
+				padding:15px;
+				padding-top:45px;
+				}
+.pro{
+			text-decoration:underline;
+			}
+.bottom-cloud{
+							position:absolute;
+							left:300px;
+							}
+.top-cloud{
+	position:absolute;
+	right:200px;
+	top:50px;
+	}
+.profile-img{
+		height:200px;
+		}
+.subtitle{
+		font-weight: normal;
+				}
+.skill-row{
+					width:50%;
+					margin:100px auto 100px auto;
+					text-align:left;
+					line-height:2;
+					}
+.computer-img{
+				width:25%;
+				float:left;
+				margin-right:30px;
+				}
+.chillie-img{
+				width:25%;
+				float:right;
+				margin-left:30px;
+				}
+.button {
+    margin-top: 25px;
+    margin-bottom: 50px;
+    background-color: #66bfbf;
+    border: none;
+    border-radius: 15px;
+    color: #eaf6f6;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
